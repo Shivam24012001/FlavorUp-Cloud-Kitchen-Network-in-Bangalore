@@ -1,0 +1,32 @@
+Get Started
+"FlavorUp launched its cloud kitchen service in Bangalore in September 2024, offering a wide variety of delicious meals delivered right to your doorstep. With a commitment to convenience, they take orders from 6 AM to midnight, ensuring that customers can enjoy their favorite dishes at any time of the day.
+
+By analyzing order patterns and identifying the reasons for delivery delays, FlavorUp works to improve efficiency and shorten delivery times. With a strong focus on both streamlining operations and delighting customers, FlavorUp is committed to providing not just meals but a seamless and enjoyable dining experience at home."
+
+Objective
+Conduct a comprehensive analysis of online food orders to uncover order trends and identify key factors influencing delivery efficiency. The focus will be on the following areas:
+
+"Exploratory Data analysis: The company aims to assess its overall performance, identify patterns, detect anomalies, and prepare the data for further analysis."
+
+"Delayed Delivery Analysis :Identify the main reasons for delivery delays for each delayed order during both peak and non-peak times. Additionally, analyze how delivery delays vary across each day of the week and calculate the delayed delivery rate for each cause during peak and non-peak hours."
+
+"Order Trends
+•Analyze order trends for peak and non-peak time to understand variations in order volumes.
+
+•Evaluate order patterns during each meal time (morning, noon, evening and night) to identify high-demand periods.
+
+•Compare per-day revenue and order volumes between weekdays and weekends to identify differences in customer behavior."
+
+Area-Wise Delay Rates: Evaluate the delay rates across different delivery areas to pinpoint locations with higher delay occurrences.
+
+Data
+You have been provided the following Data sets for your analysis.
+"Order_Fulfillment Sheet: contains comprehensive details about each order, including the cloud kitchen location, order status(Cancellations occur due to out-of-stock items), payment method, preparation time, driver assignment time, and delivery time."
+
+"Order Detail Sheet:  contains details regarding customer ID, delivery agent, item ordered, quantity, and order date."
+
+Location-wise Delivery Time Sheet: provides detailed information on delivery times for each cloud kitchen location.
+
+Food Item Details Sheet: provides comprehensive information on the price and preparation time for each food item.
+
+"Variance Sensitivity Sheet: outlines the maximum variance (in percent) and associated remarks for delivery, preparation, and packaging times"
