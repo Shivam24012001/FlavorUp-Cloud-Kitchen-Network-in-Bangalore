@@ -93,8 +93,6 @@ Categorization based on variance:
 - **Google Sheets** - Data Cleaning and Analysis
 - **Looker Studio** - Data Visualization
 
-
-
 ```
 
 ## 📢 Future Scope
